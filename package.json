@@ -1,0 +1,17 @@
+{
+  "name": "actor-system-get-prime-numbers-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Grigorii Shartsev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.3",
+    "comedy": "^1.6.2",
+    "express": "^4.16.4"
+  }
+}

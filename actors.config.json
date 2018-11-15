@@ -1,0 +1,8 @@
+{
+  "ComputingActor": {
+    "mode": "remote",
+    "host": ["0.0.0.0:4001", "0.0.0.0:4002"],
+    "clusterSize": 4,
+    "balancer": "round-robin"
+  }
+}
